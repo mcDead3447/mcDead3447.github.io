@@ -18,4 +18,4 @@ async def main():
 
 asyncio.run(main())
 
-bot.run('MTA4NDg5MjYwMTgzODIxMTA5Mg.GTmI1i.Sz2-i47hJMgMlEkhE1D2yKUbYNeBGTGFqVrw8g')
+bot.run('MTA4NDg5MjYwMTgzODIxMTA5Mg.GDxxpF.69mLuqjUvGQ6bipzI9Taz_1fdMVmX4houIJ7GU')
